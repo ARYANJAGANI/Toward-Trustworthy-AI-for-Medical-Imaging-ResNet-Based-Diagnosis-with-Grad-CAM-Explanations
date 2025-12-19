@@ -163,5 +163,36 @@ These summaries accompany the predicted class and confidence score, making expla
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## 📄 Course Information
+
+- **Course:** IS 755 – Intelligent Systems  
+- **Institution:** University of Maryland, Baltimore County  
+
+---
+
+## 👤 Author Contribution
+
+**Aryan Jagani**
+- Model architecture & training pipeline
+- Grad-CAM++ implementation
+- Literature review and XAI comparison
+- Integration of text-based explanations
+
+**Vishvakumar Patel**
+- Dataset preprocessing and augmentation
+- Explainability metrics planning
+- Robustness analysis support
+
+---
+
+## 📚 References
+
+Key references include Grad-CAM, Grad-CAM++, Score-CAM, and ISIC dataset publications.  
+See the full report for a detailed bibliography.
+
+---
+
 
