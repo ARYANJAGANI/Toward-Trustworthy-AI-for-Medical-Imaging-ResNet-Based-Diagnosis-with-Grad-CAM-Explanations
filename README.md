@@ -168,7 +168,7 @@ These summaries accompany the predicted class and confidence score, making expla
 
 ## 📄 Course Information
 
-- **Course:** IS 755 – Intelligent Systems  
+- **Course:** IS 755 – Advanced AI
 - **Institution:** University of Maryland, Baltimore County  
 
 ---
